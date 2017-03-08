@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/basic.png</file>
+        <file>resource/environ.png</file>
+        <file>resource/material.png</file>
+        <file>resource/envi.bmp</file>
+    </qresource>
+</RCC>
